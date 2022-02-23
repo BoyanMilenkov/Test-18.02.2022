@@ -1,0 +1,12 @@
+E:\BOBO\C#\Reverse Vector\bin\Debug\netcoreapp3.1\Reverse Vector.exe
+E:\BOBO\C#\Reverse Vector\bin\Debug\netcoreapp3.1\Reverse Vector.deps.json
+E:\BOBO\C#\Reverse Vector\bin\Debug\netcoreapp3.1\Reverse Vector.runtimeconfig.json
+E:\BOBO\C#\Reverse Vector\bin\Debug\netcoreapp3.1\Reverse Vector.runtimeconfig.dev.json
+E:\BOBO\C#\Reverse Vector\bin\Debug\netcoreapp3.1\Reverse Vector.dll
+E:\BOBO\C#\Reverse Vector\bin\Debug\netcoreapp3.1\Reverse Vector.pdb
+E:\BOBO\C#\Reverse Vector\obj\Debug\netcoreapp3.1\Reverse Vector.AssemblyInfoInputs.cache
+E:\BOBO\C#\Reverse Vector\obj\Debug\netcoreapp3.1\Reverse Vector.AssemblyInfo.cs
+E:\BOBO\C#\Reverse Vector\obj\Debug\netcoreapp3.1\Reverse Vector.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\Reverse Vector\obj\Debug\netcoreapp3.1\Reverse Vector.dll
+E:\BOBO\C#\Reverse Vector\obj\Debug\netcoreapp3.1\Reverse Vector.pdb
+E:\BOBO\C#\Reverse Vector\obj\Debug\netcoreapp3.1\Reverse Vector.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\BOBO\C#\Draw Reveres K\bin\Debug\netcoreapp3.1\Draw Reveres K.exe
+E:\BOBO\C#\Draw Reveres K\bin\Debug\netcoreapp3.1\Draw Reveres K.deps.json
+E:\BOBO\C#\Draw Reveres K\bin\Debug\netcoreapp3.1\Draw Reveres K.runtimeconfig.json
+E:\BOBO\C#\Draw Reveres K\bin\Debug\netcoreapp3.1\Draw Reveres K.runtimeconfig.dev.json
+E:\BOBO\C#\Draw Reveres K\bin\Debug\netcoreapp3.1\Draw Reveres K.dll
+E:\BOBO\C#\Draw Reveres K\bin\Debug\netcoreapp3.1\Draw Reveres K.pdb
+E:\BOBO\C#\Draw Reveres K\obj\Debug\netcoreapp3.1\Draw Reveres K.csproj.AssemblyReference.cache
+E:\BOBO\C#\Draw Reveres K\obj\Debug\netcoreapp3.1\Draw Reveres K.AssemblyInfoInputs.cache
+E:\BOBO\C#\Draw Reveres K\obj\Debug\netcoreapp3.1\Draw Reveres K.AssemblyInfo.cs
+E:\BOBO\C#\Draw Reveres K\obj\Debug\netcoreapp3.1\Draw Reveres K.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\Draw Reveres K\obj\Debug\netcoreapp3.1\Draw Reveres K.dll
+E:\BOBO\C#\Draw Reveres K\obj\Debug\netcoreapp3.1\Draw Reveres K.pdb
+E:\BOBO\C#\Draw Reveres K\obj\Debug\netcoreapp3.1\Draw Reveres K.genruntimeconfig.cache
